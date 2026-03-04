@@ -13,15 +13,11 @@ Built with Kotlin and Gradle (KTS).
 
 ## Screenshots
 
+## Screenshots
+
 | Task List | Add Task | Edit Task |
-|-----------|----------|-----------|
-| ![Task List] <img width="388" height="801" alt="Taks list" src="https://github.com/user-attachments/assets/131b80ae-071e-46b5-8207-7f297d151b2d" />
-| ![Add Task]
-<img width="400" height="807" alt="Add Task" src="https://github.com/user-attachments/assets/a217bb12-3ec0-48c8-982d-e1c62757bf2f" />
-
-| ![Edit Task]         
-<img width="378" height="794" alt="Edit Task" src="https://github.com/user-attachments/assets/0ce3c701-e5e8-47f1-baf9-3dd63ae9a00e" /> |
-
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/131b80ae-071e-46b5-8207-7f297d151b2d" width="250"> | <img src="https://github.com/user-attachments/assets/a217bb12-3ec0-48c8-982d-e1c62757bf2f" width="250"> | <img src="https://github.com/user-attachments/assets/0ce3c701-e5e8-47f1-baf9-3dd63ae9a00e" width="250"> |
 ## How to Run
 
 1. Clone the repo  
